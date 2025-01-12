@@ -25,7 +25,11 @@ The "Vikelaia Postcards" is an Android application designed to present selected 
 - Real-time location tracking and display on the map  
 - Dependency injection with Hilt for clean architecture  
 - Offline access through Room Database  
-- Networking for postcard data using Retrofit  
+- Networking for postcard data using Retrofit
+
+- ## Google Play
+You can download the "Vikelaia Postcards" application from the Google Play Store using the following link:  
+[Download Vikelaia Postcards on Google Play](https://play.google.com/store/apps/details?id=com.userfaltakas.vikelaialibraryguide&hl=en)
 
 ## Screenshots
 <img width="1676" alt="Castles" src="https://github.com/user-attachments/assets/bda84d46-bf2f-4599-946c-e4dcca50dca6" />
