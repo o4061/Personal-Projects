@@ -1,6 +1,6 @@
 # Green Cup
 
-<img width="200" alt="Castles" src="https://github.com/user-attachments/assets/e92caf32-dfee-428b-869c-d158cf2e586a" />
+<img width="100" alt="Castles" src="https://github.com/user-attachments/assets/e92caf32-dfee-428b-869c-d158cf2e586a" />
 
 
 
