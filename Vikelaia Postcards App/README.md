@@ -27,7 +27,7 @@ The "Vikelaia Postcards" is an Android application designed to present selected 
 - Offline access through Room Database  
 - Networking for postcard data using Retrofit
 
-- ## Google Play
+## Google Play
 You can download the "Vikelaia Postcards" application from the Google Play Store using the following link:  
 [Download Vikelaia Postcards on Google Play](https://play.google.com/store/apps/details?id=com.userfaltakas.vikelaialibraryguide&hl=en)
 
