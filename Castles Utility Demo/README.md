@@ -36,6 +36,9 @@ Here are some screenshots of the application in action:
 ### Transaction Flow
 <img width="3410" alt="Castles" src="https://github.com/user-attachments/assets/a7e3fc23-440e-48d2-81cc-ffe3958cb0fe" />
 
+### Transaction Flow Landscape
+<img width="3738" alt="Castles" src="https://github.com/user-attachments/assets/45c0327d-ce0c-46ad-a509-914d9d6922b7" />
+
 ### System Flow
 <img width="1625" alt="Castles" src="https://github.com/user-attachments/assets/108f6d43-e6a2-4d02-a462-cf2f19551915" />
 
