@@ -1,6 +1,7 @@
 # Drone App
 
-<img width="100" src="https://github.com/user-attachments/assets/6cba4ec7-c8ea-468f-8fe3-7f062e82b3c5" />
+<img width="100" src="https://github.com/user-attachments/assets/98363caa-3065-4463-b672-b982cfe263e5" />
+
 
 ## Description
 The "Drone App" is an Android-based demo application that fully integrates the DJI SDK, offering comprehensive drone control. It includes on-device object detection using a TensorFlow machine learning model for real-time identification of objects, enhancing the drone's functionality. The app combines advanced drone control features with machine learning for smarter, more efficient drone operations.
