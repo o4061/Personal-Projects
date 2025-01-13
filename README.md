@@ -40,7 +40,7 @@ Welcome to my portfolio of applications! Below, you will find a curated selectio
 ## **Innovative Projects**
 ### Unique applications demonstrating advanced features and integrations.
 
-<img width="50" src="https://github.com/user-attachments/assets/6cba4ec7-c8ea-468f-8fe3-7f062e82b3c5" />  <img width="50" alt="Castles" src="https://github.com/user-attachments/assets/e92caf32-dfee-428b-869c-d158cf2e586a" />
+<img width="50" src="https://github.com/user-attachments/assets/08e45cd9-d62c-48e9-8225-1fba8cb6cd39" />  <img width="50" alt="Castles" src="https://github.com/user-attachments/assets/e92caf32-dfee-428b-869c-d158cf2e586a" />
 
 - **Drone App**  
   A demo showcasing DJI SDK integration with on-device TensorFlow ML for real-time object detection and drone control.  
