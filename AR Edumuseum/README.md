@@ -35,6 +35,9 @@ Through this application, users can access digital information that appears as a
 You can download the "AR Edumuseum" application from the Google Play Store using the following link:  
 [Download AR Edumuseum on Google Play](https://play.google.com/store/apps/details?id=gr.forth.ics.museumrethimnou&hl=en)
 
+## Video
+https://github.com/user-attachments/assets/c02f942f-53fa-4cd9-9a9d-2040387d8c74
+
 ## Screenshots
 <img width="1676" alt="AR Edumuseum" src="https://github.com/user-attachments/assets/542834cd-20f7-465c-aa11-520240bc23a1" />
 
