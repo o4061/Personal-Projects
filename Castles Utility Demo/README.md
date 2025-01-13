@@ -32,6 +32,11 @@ This demo supports the following Castles terminals:
 - Complete feature set for exhibition purposes
 - Multi-module project for easy SDK integration into other systems
 
+- ## Video
+https://github.com/user-attachments/assets/189776f4-632a-422e-bcbc-d896aa6c96d6
+https://github.com/user-attachments/assets/8c730f4c-6b41-469d-b97a-77c5b39dbc43
+https://github.com/user-attachments/assets/1834b6ef-93ce-4d37-a7da-eb436e9ca5a9
+
 - ## Screenshots
 
 Here are some screenshots of the application in action:
@@ -50,5 +55,5 @@ Here are some screenshots of the application in action:
 ### Card Test Flow
 <img width="1625" alt="Castles" src="https://github.com/user-attachments/assets/9b97683d-2ebd-4f72-835c-f59433a81792" />
 
-### Settings Test Flow
-<img width="1955" alt="Castles" src="https://github.com/user-attachments/assets/a77d864f-17bd-4433-8b3a-f718d1d71b89" />
+### Communication Test Flow
+<img width="3626" alt="Castles" src="https://github.com/user-attachments/assets/02368bf9-e9ac-4219-be82-8e96252b49a6" />
