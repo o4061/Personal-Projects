@@ -39,6 +39,9 @@ https://github.com/user-attachments/assets/8c730f4c-6b41-469d-b97a-77c5b39dbc43
 
 https://github.com/user-attachments/assets/1834b6ef-93ce-4d37-a7da-eb436e9ca5a9
 
+- ## Device Animations
+https://github.com/user-attachments/assets/e22c1673-9e4e-400c-b48b-6d440918f764
+
 - ## Screenshots
 
 Here are some screenshots of the application in action:
