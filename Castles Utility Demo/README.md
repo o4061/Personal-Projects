@@ -1,5 +1,7 @@
 # Castles Utility Demo
 
+<img width="100" src="https://github.com/user-attachments/assets/7ec3bb91-fa8a-40d9-bebe-340c95ec2f22" />
+
 ## Description
 The "Castles Utility Demo" is an Android application that provides full functionality for all Castles terminal models, allowing users to process sales transactions and utilize terminal features for exhibitions. The project is designed to support Castles' exhibition needs, offering complete features and scenarios for various systems.
 
