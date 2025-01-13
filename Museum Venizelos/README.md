@@ -35,5 +35,8 @@ The "Museum Venizelos" is an Android application designed for an interactive tou
 You can download the "Museum Venizelos" application from the Google Play Store using the following link:  
 [Download Museum Venizelos on Google Play](https://play.google.com/store/apps/details?id=com.userfaltakas.venizelosmuseumguide&hl=en)
 
+## Video
+https://github.com/user-attachments/assets/ce97598a-934a-433b-be69-5ce3b259c4a8
+
 ## Screenshots
 <img width="2264" alt="Museum Venizelos" src="https://github.com/user-attachments/assets/9b8bab11-c6c4-4172-9482-70ad63cb3a3a" />
