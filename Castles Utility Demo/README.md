@@ -3,7 +3,7 @@
 <img width="100" src="https://github.com/user-attachments/assets/7ec3bb91-fa8a-40d9-bebe-340c95ec2f22" />
 
 ## Description
-The "Castles Utility Demo" is an Android application that provides full functionality for all Castles terminal models, allowing users to process sales transactions and utilize terminal features for exhibitions. The project is designed to support Castles' exhibition needs, offering complete features and scenarios for various systems.
+The "Castles Utility Demo" is an Android application that provides full functionality for all Castles terminal models, allowing users to process sales transactions and utilize terminal features for exhibitions. This project is specifically designed to showcase Castles terminals during exhibitions, providing comprehensive features and scenarios.
 
 ## Technologies Used
 - **Kotlin** – Programming language
@@ -34,7 +34,7 @@ This demo supports the following Castles terminals:
 
 - ## Video
 
-### Application Selection + Dcc + Offline Pin
+### Application Selection + DCC + Offline Pin
 https://github.com/user-attachments/assets/189776f4-632a-422e-bcbc-d896aa6c96d6
 
 ### Signature
@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/8c730f4c-6b41-469d-b97a-77c5b39dbc43
 ### See device for instructions
 https://github.com/user-attachments/assets/1834b6ef-93ce-4d37-a7da-eb436e9ca5a9
 
-### Receipt + Out of papper
+### Receipt + Out of paper
 https://github.com/user-attachments/assets/bc333780-5db6-430f-8459-bab0932d8678
 
 
