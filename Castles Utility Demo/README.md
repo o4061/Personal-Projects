@@ -43,8 +43,9 @@ https://github.com/user-attachments/assets/8c730f4c-6b41-469d-b97a-77c5b39dbc43
 ### See device for instructions
 https://github.com/user-attachments/assets/1834b6ef-93ce-4d37-a7da-eb436e9ca5a9
 
-### Receipt
-https://github.com/user-attachments/assets/da66179a-18c8-4afa-ade4-2b73088cdccc
+### Receipt + Out of papper
+https://github.com/user-attachments/assets/bc333780-5db6-430f-8459-bab0932d8678
+
 
 - ## Device Animations
 https://github.com/user-attachments/assets/e22c1673-9e4e-400c-b48b-6d440918f764
