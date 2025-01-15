@@ -39,6 +39,8 @@ https://github.com/user-attachments/assets/8c730f4c-6b41-469d-b97a-77c5b39dbc43
 
 https://github.com/user-attachments/assets/1834b6ef-93ce-4d37-a7da-eb436e9ca5a9
 
+https://github.com/user-attachments/assets/da66179a-18c8-4afa-ade4-2b73088cdccc
+
 - ## Device Animations
 https://github.com/user-attachments/assets/e22c1673-9e4e-400c-b48b-6d440918f764
 
@@ -62,3 +64,7 @@ Here are some screenshots of the application in action:
 
 ### Communication Test Flow
 <img width="3626" alt="Castles" src="https://github.com/user-attachments/assets/02368bf9-e9ac-4219-be82-8e96252b49a6" />
+
+### Receipts
+<img width="1064" alt="Castles" src="https://github.com/user-attachments/assets/636b5a2d-3761-4a37-ae39-623fe0680581" />
+
