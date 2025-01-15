@@ -33,12 +33,17 @@ This demo supports the following Castles terminals:
 - Multi-module project for easy SDK integration into other systems
 
 - ## Video
+
+### Application Selection + Dcc + Offline Pin
 https://github.com/user-attachments/assets/189776f4-632a-422e-bcbc-d896aa6c96d6
 
+### Signature
 https://github.com/user-attachments/assets/8c730f4c-6b41-469d-b97a-77c5b39dbc43
 
+### See device for instructions
 https://github.com/user-attachments/assets/1834b6ef-93ce-4d37-a7da-eb436e9ca5a9
 
+### Receipt
 https://github.com/user-attachments/assets/da66179a-18c8-4afa-ade4-2b73088cdccc
 
 - ## Device Animations
