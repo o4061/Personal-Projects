@@ -71,6 +71,9 @@ Here are some screenshots of the application in action:
 ### Communication Test Flow
 <img width="3626" alt="Castles" src="https://github.com/user-attachments/assets/02368bf9-e9ac-4219-be82-8e96252b49a6" />
 
+### Receipt Flow
+<img width="2294" alt="Castles" src="https://github.com/user-attachments/assets/a6fb6bea-a101-4004-b67a-3c427325dda2" />
+
 ### Receipts
 <img width="1064" alt="Castles" src="https://github.com/user-attachments/assets/636b5a2d-3761-4a37-ae39-623fe0680581" />
 
