@@ -66,7 +66,7 @@ Here are some screenshots of the application in action:
 <img width="2339" alt="Castles" src="https://github.com/user-attachments/assets/4bb3c4b4-1b86-4762-8177-394c64e6aad6" />
 
 ### Card Test Flow
-<img width="1625" alt="Castles" src="https://github.com/user-attachments/assets/9b97683d-2ebd-4f72-835c-f59433a81792" />
+<img width="1625" alt="Castles" src="https://github.com/user-attachments/assets/bf003fd7-9c1d-4488-a3f3-e8c25cf1faca" />
 
 ### Communication Test Flow
 <img width="2912" alt="Castles" src="https://github.com/user-attachments/assets/78269627-dd30-47f3-90aa-28bfdbc6ef41" />
