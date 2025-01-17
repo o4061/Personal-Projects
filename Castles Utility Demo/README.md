@@ -54,7 +54,7 @@ https://github.com/user-attachments/assets/e22c1673-9e4e-400c-b48b-6d440918f764
 
 Here are some screenshots of the application in action:
 ### Transaction Flow
-<img width="3410" alt="Castles" src="https://github.com/user-attachments/assets/a7e3fc23-440e-48d2-81cc-ffe3958cb0fe" />
+<img width="3170" alt="Castles" src="https://github.com/user-attachments/assets/7b369be0-77a5-486a-86ff-efafb9b9c0f4" />
 
 ### Transaction Flow Landscape
 <img width="3738" alt="Castles" src="https://github.com/user-attachments/assets/45c0327d-ce0c-46ad-a509-914d9d6922b7" />
@@ -69,10 +69,10 @@ Here are some screenshots of the application in action:
 <img width="1625" alt="Castles" src="https://github.com/user-attachments/assets/9b97683d-2ebd-4f72-835c-f59433a81792" />
 
 ### Communication Test Flow
-<img width="3626" alt="Castles" src="https://github.com/user-attachments/assets/02368bf9-e9ac-4219-be82-8e96252b49a6" />
+<img width="2912" alt="Castles" src="https://github.com/user-attachments/assets/78269627-dd30-47f3-90aa-28bfdbc6ef41" />
 
 ### Receipt Flow
-<img width="2294" alt="Castles" src="https://github.com/user-attachments/assets/a6fb6bea-a101-4004-b67a-3c427325dda2" />
+<img width="2504" alt="Castles" src="https://github.com/user-attachments/assets/121c18ff-d6ac-4b13-af2e-f058cd43c37b" />
 
 ### Receipts
 <img width="1064" alt="Castles" src="https://github.com/user-attachments/assets/636b5a2d-3761-4a37-ae39-623fe0680581" />
