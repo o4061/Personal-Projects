@@ -72,7 +72,7 @@ Here are some screenshots of the application in action:
 <img width="2912" alt="Castles" src="https://github.com/user-attachments/assets/78269627-dd30-47f3-90aa-28bfdbc6ef41" />
 
 ### Receipt Flow
-<img width="2504" alt="Castles" src="https://github.com/user-attachments/assets/121c18ff-d6ac-4b13-af2e-f058cd43c37b" />
+<img width="3026" alt="Castles" src="https://github.com/user-attachments/assets/c556c247-8a89-4cce-914d-52e8e8da99e9" />
 
 ### Receipts
 <img width="1064" alt="Castles" src="https://github.com/user-attachments/assets/636b5a2d-3761-4a37-ae39-623fe0680581" />
