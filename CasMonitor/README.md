@@ -3,33 +3,30 @@
 <img width="100" src="https://github.com/user-attachments/assets/24e678d3-2687-45a9-8e82-fe5ae40c3428" />
 
 ## Description
-The "AR Edumuseum" is an augmented reality application designed to help users explore the emotional and interactive content of the archive collection of the Didaskalion of Crete. The collection is deposited in the Museum of Education at the Center for the Study and Research of the History of Education and the Teaching Profession (KE.M.E.IEDE) of the University of Crete.
-
-Through this application, users can access digital information that appears as an overlay in their physical environment, enriching their museum experience and allowing them to discover hidden details about the exhibits.
+CasMonitor is an Android application designed for the management and monitoring of available POS terminals. The app connects to all available terminals via TCP sockets, enabling the user to manage transactions, view device states, and monitor the location of each terminal within a physical space. It supports various payment methods, including card transactions, cash transactions (with receipt generation), and account payments using QR codes. The app also provides real-time data, such as device status and resource information (e.g., memory, storage, and battery levels), allowing users to manage the terminals effectively. Additionally, it offers a top-view interactive map for easy tracking of POS device locations within the environment.
 
 ## Technologies Used  
 - **Kotlin** – Programming language  
 - **Android Studio** – Development environment  
 - **MVVM** – Architecture pattern for clean code  
-- **ARCore** – Augmented Reality integration  
-- **Sceneform** – 3D scene rendering for AR experiences  
 - **Retrofit** – Networking library for API communication  
 - **Firebase** – Analytics and crash reporting  
 - **Dagger - Hilt** – Dependency injection framework  
-- **Coroutines** – Asynchronous programming  
+- **Coroutines** – Asynchronous programming
+- **WilliamChart** – Library for displaying charts
 - **GSON** – JSON parsing  
-- **ViewPager** – View paging for exhibit details  
-- **PDFium** – PDF rendering  
-- **Google Maps** – Integration for interactive maps (optional)  
+- **MapView** – Map integration for interactive top-view
 
 ## Features  
-- Augmented reality overlays for interactive exhibits  
-- Real-time digital information superimposed on the physical environment  
-- Smooth navigation with ViewPager and DotsIndicator for exhibit transitions  
-- Dependency injection with Hilt for clean architecture  
-- Offline access with local data storage  
-- PDF viewing for additional educational content  
-- Firebase integration for analytics and crash reporting  
+- TCP Socket Connectivity: Connect to all available POS terminals via TCP socket for seamless communication and monitoring
+- Transaction Management: Initiate card, cash (with receipt generation), and account transactions via QR codes
+- Device State Monitoring: View the current state of each POS terminal in real-time with the option to decode the status (e.g., idle, currency conversion, authorization)
+- Top-View Map: Interactive map showing the location of each POS terminal in the physical space for easy tracking
+- Resource Monitoring: Gather information about the terminal's memory, storage, and battery levels to ensure optimal functionality
+- Real-Time Data: Access detailed charts or text information on the device's current state and transaction status
+- Crash Reporting & Analytics: Integration with Firebase for crash reporting and app analytics
+- Dependency Injection with Hilt: Ensures a clean and maintainable codebase
+- Offline Access: Capability to handle and store data offline when needed
 
 ## Video
 https://github.com/user-attachments/assets/0eb66326-d971-4bc7-a035-b286c346927a
