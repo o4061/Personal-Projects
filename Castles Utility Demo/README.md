@@ -16,8 +16,10 @@ The "Castles Utility Demo" is an Android application that provides full function
 This demo supports the following Castles terminals:
 - **Castles S1F2**
 - **Castles S1F3**
-- **Castles S1F4Pro**
+- **Castles S1F3CT**
+- **Castles S1F4 PRO**
 - **Castles S1E2**
+- **Castles S1E2-L**
 - **Castles S1U2**
 - **Castles S1L**
 - **Castles S2L**
