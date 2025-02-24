@@ -1,6 +1,6 @@
-# AR Edumuseum
+# CasMonitor
 
-<img width="100" src="https://github.com/user-attachments/assets/f8ce209c-2469-46a4-a72d-c9571e94c033" />
+<img width="100" src="https://github.com/user-attachments/assets/24e678d3-2687-45a9-8e82-fe5ae40c3428" />
 
 ## Description
 The "AR Edumuseum" is an augmented reality application designed to help users explore the emotional and interactive content of the archive collection of the Didaskalion of Crete. The collection is deposited in the Museum of Education at the Center for the Study and Research of the History of Education and the Teaching Profession (KE.M.E.IEDE) of the University of Crete.
