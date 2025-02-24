@@ -32,7 +32,7 @@ Through this application, users can access digital information that appears as a
 - Firebase integration for analytics and crash reporting  
 
 ## Video
-https://github.com/user-attachments/assets/c02f942f-53fa-4cd9-9a9d-2040387d8c74
+https://github.com/user-attachments/assets/0eb66326-d971-4bc7-a035-b286c346927a
 
 ## Screenshots
 ### Start Transaction
