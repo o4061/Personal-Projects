@@ -10,7 +10,12 @@ Welcome to my portfolio of applications! Below, you will find a curated selectio
 <img width="50" src="https://github.com/user-attachments/assets/0decc497-e5ee-4aff-b41c-8cb9f1406a4d">
 
 - **Castles Utility Demo**  
-  A comprehensive utility app for Castles POS terminals, covering all terminal models and functionality.  
+  A comprehensive utility app for Castles POS terminals, covering all terminal models and functionality.
+
+![Logo](https://github.com/user-attachments/assets/0df6f837-2dfc-4e5c-bd97-11b31ea74c16)
+
+- **CasMonitor**
+  An app for managing and monitoring POS terminals, supporting card, cash, and QR code transactions, along with real-time status updates and location tracking.
 
 ---
 
