@@ -31,13 +31,18 @@ Through this application, users can access digital information that appears as a
 - PDF viewing for additional educational content  
 - Firebase integration for analytics and crash reporting  
 
-## Google Play
-You can download the "AR Edumuseum" application from the Google Play Store using the following link:  
-[Download AR Edumuseum on Google Play](https://play.google.com/store/apps/details?id=gr.forth.ics.museumrethimnou&hl=en)
-
 ## Video
 https://github.com/user-attachments/assets/c02f942f-53fa-4cd9-9a9d-2040387d8c74
 
 ## Screenshots
 <img width="1676" alt="AR Edumuseum" src="https://github.com/user-attachments/assets/542834cd-20f7-465c-aa11-520240bc23a1" />
+
+<img width="8099" alt="Cardlink flows2" src="https://github.com/user-attachments/assets/ef6625a4-5a2f-4340-aba3-95f67488c082" />
+<img width="4097" alt="Cardlink flows3" src="https://github.com/user-attachments/assets/ca5afb2c-9404-4822-8d79-5674a0fdb1b5" />
+<img width="4097" alt="Cardlink flows" src="https://github.com/user-attachments/assets/7de32242-ebfa-4ffb-a610-c720172bc787" />
+<img width="2176" alt="Cardlink flows4" src="https://github.com/user-attachments/assets/830f3ac4-d684-4496-8ed2-1ebe269b5e78" />
+
+
+
+
 
