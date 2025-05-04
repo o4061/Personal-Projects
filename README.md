@@ -7,7 +7,7 @@ Welcome to my portfolio of applications! Below, you will find a curated selectio
 ## **POS Terminal Solutions**
 ### Custom applications tailored for Android POS terminals.
 
-<img width="50" src="https://github.com/user-attachments/assets/0decc497-e5ee-4aff-b41c-8cb9f1406a4d"><img width="50" src="https://github.com/user-attachments/assets/dd992cfc-b620-416e-b252-c6f1aededf34">
+<img width="50" src="https://github.com/user-attachments/assets/0decc497-e5ee-4aff-b41c-8cb9f1406a4d">  <img width="50" src="https://github.com/user-attachments/assets/dd992cfc-b620-416e-b252-c6f1aededf34">
 
 
 - **Castles/Pax Utility**  
