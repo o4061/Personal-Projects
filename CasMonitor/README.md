@@ -1,6 +1,5 @@
 # PaymentDeeplinkApp
-
-<img width="100" src="https://github.com/user-attachments/assets/24e678d3-2687-45a9-8e82-fe5ae40c3428" />
+<img width="100" src="https://github.com/user-attachments/assets/236b1458-1cb8-4734-b0e4-2c839613c2ae" />
 
 ## Description
 PaymentDeeplinkApp is an Android application designed to demonstrate a universal deep link payment flow between third-party business apps (e.g., coffee kiosks, vending machines, ticketing systems) and the Castles Utility POS application.
@@ -26,8 +25,6 @@ The app acts as a bridge layer between merchant business applications and the pa
 - Order Summary Integration: Displays detailed breakdown before redirecting to Castles Utility for payment
 - Result Handling: Listen for success/failure callbacks from Castles Utility and present the final transaction outcome
 - Lightweight Integration: Simple deep link structure that can be adopted by any Android business app without SDK dependency
-
-## Screenshots<img width="5576" height="6008" alt="deepllinkFlow" src="https://github.com/user-attachments/assets/e7f59d75-239d-445a-87b0-6a4341879a90" />
 
 ### Complete Flow
 <img width="8099" src="https://github.com/user-attachments/assets/e7f59d75-239d-445a-87b0-6a4341879a90" />
