@@ -18,6 +18,10 @@ Welcome to my portfolio of applications! Below, you will find a curated selectio
 - **CasMonitor**\
   An app for managing and monitoring POS terminals, supporting card, cash, and QR code transactions, along with real-time status updates and location tracking.
 
+<img width="50" src="https://github.com/user-attachments/assets/c40fbd3e-2f82-4de4-b063-e800fe954716">
+
+- **PaymentDeeplinkApp**\
+A dynamic deep link solution that allows any business app (e.g., coffee kiosk, vending, or ticketing) to trigger a payment on Castles Utility. Handles amount, currency, and visual theme seamlessly for a unified checkout experience.
 ---
 
 ## **Museum Guidance Applications**
